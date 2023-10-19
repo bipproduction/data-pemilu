@@ -1,0 +1,240 @@
+[
+    {
+      "No": 1,
+      "Provinsi": "Aceh",
+      "Gubernur": "Nova Iriansyah",
+      "Wakil Gubernur": "(lowong)",
+      "Masa Jabatan": "5 Nov 2020 – 5 Jul 2022"
+    },
+    {
+      "No": 2,
+      "Provinsi": "Sumatera Utara",
+      "Gubernur": "Edy Rahmayadi",
+      "Wakil Gubernur": "Musa Rajekshah",
+      "Masa Jabatan": "5 Sep 2018 – 5 Sep 2023"
+    },
+    {
+      "No": 3,
+      "Provinsi": "Sumatera Barat",
+      "Gubernur": "Mahyeldi Ansharullah",
+      "Wakil Gubernur": "Audy Joinaldy",
+      "Masa Jabatan": "25 Feb 2021 -25 Feb 2024"
+    },
+    {
+      "No": 4,
+      "Provinsi": "Riau",
+      "Gubernur": "Syamsuar",
+      "Wakil Gubernur": "Edy Nasution",
+      "Masa Jabatan": "20 Feb 2019 – 20 Feb 2024"
+    },
+    {
+      "No": 5,
+      "Provinsi": "Jambi",
+      "Gubernur": "Al Haris",
+      "Wakil Gubernur": "Abdullah Sani",
+      "Masa Jabatan": "7 Jul 2021 – 7 Jul 2024"
+    },
+    {
+      "No": 6,
+      "Provinsi": "Sumatera Selatan",
+      "Gubernur": "Herman Deru",
+      "Wakil Gubernur": "Mawardi Yahya",
+      "Masa Jabatan": "1 Okt 2018 – 1 Okt 2023"
+    },
+    {
+      "No": 7,
+      "Provinsi": "Bengkulu",
+      "Gubernur": "Rohidin Mersyah",
+      "Wakil Gubernur": "Rosjonsyah",
+      "Masa Jabatan": "25 Feb 2021 – 25 Feb 2024"
+    },
+    {
+      "No": 8,
+      "Provinsi": "Lampung",
+      "Gubernur": "Arinal Djunaidi",
+      "Wakil Gubernur": "Chusnusia Chalim",
+      "Masa Jabatan": "12 Jun 2019 – 12 Jun 2024"
+    },
+    {
+      "No": 9,
+      "Provinsi": "Kepulauan Bangka Belitung",
+      "Gubernur": "Erzaldi Rosman Djohan",
+      "Wakil Gubernur": "Abdul Fatah",
+      "Masa Jabatan": "12 Mei 2017 – 12 Mei 2022"
+    },
+    {
+      "No": 10,
+      "Provinsi": "Kepulauan Riau",
+      "Gubernur": "Ansar Ahmad",
+      "Wakil Gubernur": "Marlin Agustina Rudi",
+      "Masa Jabatan": "25 Feb 2021 – 25 Feb 2024"
+    },
+    {
+      "No": 11,
+      "Provinsi": "DKI Jakarta",
+      "Gubernur": "Anies Rasyid Baswedan",
+      "Wakil Gubernur": "Ahmad Riza Patria",
+      "Masa Jabatan": "16 Okt 2017 – 16 Okt 2022"
+    },
+    {
+      "No": 12,
+      "Provinsi": "Jawa Barat",
+      "Gubernur": "Ridwan Kamil",
+      "Wakil Gubernur": "Uu Ruzhanul Ulum",
+      "Masa Jabatan": "5 Sep 2018 – 5 Sep 2023"
+    },
+    {
+      "No": 13,
+      "Provinsi": "Jawa Tengah",
+      "Gubernur": "Ganjar Pranowo",
+      "Wakil Gubernur": "Taj Yasin Maimoen",
+      "Masa Jabatan": "5 Sep 2018 – 5 Sep 2023"
+    },
+    {
+      "No": 14,
+      "Provinsi": "DI Yogyakarta",
+      "Gubernur": "Hamengkubuwana X",
+      "Wakil Gubernur": "Paku Alam X",
+      "Masa Jabatan": "10 Okt 2017 – 10 Okt 2022"
+    },
+    {
+      "No": 15,
+      "Provinsi": "Jawa Timur",
+      "Gubernur": "Khofifah Indar Parawansa",
+      "Wakil Gubernur": "Emil Dardak",
+      "Masa Jabatan": "13 Feb 2019 – 13 Feb 2024"
+    },
+    {
+      "No": 16,
+      "Provinsi": "Banten",
+      "Gubernur": "Wahidin Halim",
+      "Wakil Gubernur": "Andika Hazrumy",
+      "Masa Jabatan": "12 Mei 2017 – 12 Mei 2022"
+    },
+    {
+      "No": 17,
+      "Provinsi": "Bali",
+      "Gubernur": "I Wayan Koster",
+      "Wakil Gubernur": "Tjokorda Oka Artha Ardana Sukawati",
+      "Masa Jabatan": "5 Sep 2018 – 5 Sep 2023"
+    },
+    {
+      "No": 18,
+      "Provinsi": "Nusa Tenggara Barat",
+      "Gubernur": "Zulkieflimansyah",
+      "Wakil Gubernur": "Sitti Rohmi Djalilah",
+      "Masa Jabatan": "19 Sep 2018 – 19 Sep 2023"
+    },
+    {
+      "No": 19,
+      "Provinsi": "Nusa Tenggara Timur",
+      "Gubernur": "Viktor Laiskodat",
+      "Wakil Gubernur": "Josef Nae Soi",
+      "Masa Jabatan": "5 Sep 2018 – 5 Sep 2023"
+    },
+    {
+      "No": 20,
+      "Provinsi": "Kalimantan Barat",
+      "Gubernur": "Sutarmidji",
+      "Wakil Gubernur": "Ria Norsan",
+      "Masa Jabatan": "5 Sep 2018 – 5 Sep 2023"
+    },
+    {
+      "No": 21,
+      "Provinsi": "Kalimantan Tengah",
+      "Gubernur": "Sugianto Sabran",
+      "Wakil Gubernur": "Edy Pratowo",
+      "Masa Jabatan": "25 Mei 2021 – 25 Mei 2024"
+    },
+    {
+      "No": 22,
+      "Provinsi": "Kalimantan Selatan",
+      "Gubernur": "Safrizal (pejabat)",
+      "Wakil Gubernur": "",
+      "Masa Jabatan": "menunggu pelantikan gubernur terpilih"
+    },
+    {
+      "No": 23,
+      "Provinsi": "Kalimantan Timur",
+      "Gubernur": "Isran Noor",
+      "Wakil Gubernur": "Hadi Mulyadi",
+      "Masa Jabatan": "1 Okt 2018 – 1 Okt 2023"
+    },
+    {
+      "No": 24,
+      "Provinsi": "Kalimantan Utara",
+      "Gubernur": "Zainal Arifin Paliwang",
+      "Wakil Gubernur": "Yansen Tipa Padan",
+      "Masa Jabatan": "15 Feb 2021 -15 Feb 2024"
+    },
+    {
+      "No": 25,
+      "Provinsi": "Sulawesi Utara",
+      "Gubernur": "Olly Dondokambey",
+      "Wakil Gubernur": "Steven O. E. Kandouw",
+      "Masa Jabatan": "15 Feb 2021 -15 Feb 2024"
+    },
+    {
+      "No": 26,
+      "Provinsi": "Sulawesi Tengah",
+      "Gubernur": "Rusdy Mastura",
+      "Wakil Gubernur": "Ma’mun Amir",
+      "Masa Jabatan": "16 Jun 2021 – 16 Jun 2024"
+    },
+    {
+      "No": 27,
+      "Provinsi": "Sulawesi Selatan",
+      "Gubernur": "Andi Sudirman Sulaiman (Plt)",
+      "Wakil Gubernur": "(lowong)",
+      "Masa Jabatan": "28 Feb 2021 – 5 Sep 2023"
+    },
+    {
+      "No": 28,
+      "Provinsi": "Sulawesi Tenggara",
+      "Gubernur": "Ali Mazi",
+      "Wakil Gubernur": "Lukman Abunawas",
+      "Masa Jabatan": "5 Sep 2018 – 5 Sep 2023"
+    },
+    {
+      "No": 29,
+      "Provinsi": "Gorontalo",
+      "Gubernur": "Rusli Habibie",
+      "Wakil Gubernur": "Idris Rahim",
+      "Masa Jabatan": "12 Mei 2017 – 12 Mei 2022"
+    },
+    {
+      "No": 30,
+      "Provinsi": "Sulawesi Barat",
+      "Gubernur": "Ali Baal Masdar",
+      "Wakil Gubernur": "Enny Anggraeny Anwar",
+      "Masa Jabatan": "12 Mei 2017 – 12 Mei 2022"
+    },
+    {
+      "No": 31,
+      "Provinsi": "Maluku",
+      "Gubernur": "Murad Ismail",
+      "Wakil Gubernur": "Barnabas Orno",
+      "Masa Jabatan": "24 Apr 2019 – 24 Apr 2024"
+    },
+    {
+      "No": 32,
+      "Provinsi": "Maluku Utara",
+      "Gubernur": "Abdul Ghani Kasuba",
+      "Wakil Gubernur": "Al Yasin Ali",
+      "Masa Jabatan": "10 Mei 2019 – 10 Mei 2024"
+    },
+    {
+      "No": 33,
+      "Provinsi": "Papua",
+      "Gubernur": "Lukas Enembe",
+      "Wakil Gubernur": "(lowong)",
+      "Masa Jabatan": "5 Sep 2018 – 5 Sep 2023"
+    },
+    {
+      "No": 34,
+      "Provinsi": "Papua Barat",
+      "Gubernur": "Dominggus Mandacan",
+      "Wakil Gubernur": "Mohamad Lakotani",
+      "Masa Jabatan": "12 Mei 2017 – 12 Mei 2022"
+    }
+   ]

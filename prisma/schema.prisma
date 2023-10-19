@@ -1,0 +1,116 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Prov {
+  id       String  @id @default(cuid())
+  urut     Int     @default(0)
+  WILAYAH  String?
+  PKB      String?
+  Gerindra String?
+  PDIP     String?
+  Golkar   String?
+  NasDem   String?
+  Garuda   String?
+  Berkarya String?
+  PKS      String?
+  Perindo  String?
+  PPP      String?
+  PSI      String?
+  PAN      String?
+  Hanura   String?
+  Demokrat String?
+  PBB      String?
+  PKPI     String?
+  Kab      Kab[]
+}
+
+model Kab {
+  id       String  @id @default(cuid())
+  urut     Int     @default(0)
+  PKB      String?
+  Gerindra String?
+  PDIP     String?
+  Golkar   String?
+  NasDem   String?
+  Garuda   String?
+  Berkarya String?
+  PKS      String?
+  Perindo  String?
+  PPP      String?
+  PSI      String?
+  PAN      String?
+  Hanura   String?
+  Demokrat String?
+  PBB      String?
+  PKPI     String?
+  WILAYAH  String?
+  Prov     Prov?   @relation(fields: [provId], references: [id])
+  provId   String
+  Kec      Kec[]
+}
+
+model Kec {
+  id       String  @id @default(cuid())
+  Kab      Kab?    @relation(fields: [kabId], references: [id])
+  PKB      String?
+  Gerindra String?
+  PDIP     String?
+  Golkar   String?
+  NasDem   String?
+  Garuda   String?
+  Berkarya String?
+  PKS      String?
+  Perindo  String?
+  PPP      String?
+  PSI      String?
+  PAN      String?
+  Hanura   String?
+  Demokrat String?
+  PBB      String?
+  PKPI     String?
+  WILAYAH  String?
+  kabId    String?
+  urut     Int?
+  Kel      Kel[]
+}
+
+model Kel {
+  id        String   @id @default(cuid())
+  PKB       String?
+  Gerindra  String?
+  PDIP      String?
+  Golkar    String?
+  NasDem    String?
+  Garuda    String?
+  Berkarya  String?
+  PKS       String?
+  Perindo   String?
+  PPP       String?
+  PSI       String?
+  PAN       String?
+  Hanura    String?
+  Demokrat  String?
+  PBB       String?
+  PKPI      String?
+  WILAYAH   String?
+  urut      Int?
+  Kec       Kec?     @relation(fields: [kecId], references: [id])
+  kecId     String?
+  createdAt DateTime @default(now())
+}
+
+model Pointer {
+  id   Int @id @default(1)
+  prov Int @default(0)
+  kab  Int @default(0)
+  kec  Int @default(0)
+}
