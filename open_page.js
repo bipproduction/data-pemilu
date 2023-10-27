@@ -1,4 +1,9 @@
 const puppeteer = require('puppeteer')
+
+/**
+ * 
+ * @returns {Promise<puppeteer.Page>}
+ */
 module.exports = async function () {
     const browser = await puppeteer.launch({
         headless: false,

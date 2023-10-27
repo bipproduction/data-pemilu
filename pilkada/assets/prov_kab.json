@@ -1,0 +1,696 @@
+[
+    {
+        "prov": "Aceh",
+        "kab": [
+            "Bupati Aceh Barat 2024",
+            "Bupati Aceh Barat Daya 2024",
+            "Bupati Aceh Besar 2024",
+            "Bupati Aceh Jaya 2024",
+            "Bupati Aceh Selatan 2024",
+            "Bupati Aceh Singkil 2024",
+            "Bupati Aceh Tamiang 2024",
+            "Bupati Aceh Tengah 2024",
+            "Bupati Aceh Tenggara 2024",
+            "Bupati Aceh Timur 2024",
+            "Bupati Aceh Utara 2024",
+            "Bupati Bener Meriah 2024",
+            "Bupati Bireuen 2024",
+            "Bupati Gayo Lues 2024",
+            "Bupati Nagan Raya 2024",
+            "Bupati Pidie 2024",
+            "Bupati Pidie Jaya 2024",
+            "Bupati Simeulue 2024",
+            "Wali Kota Banda Aceh 2024",
+            "Wali Kota Langsa 2024",
+            "Wali Kota Lhokseumawe 2024",
+            "Wali Kota Sabang 2024",
+            "Wali Kota Subulussalam 2024"
+        ]
+    },
+    {
+        "prov": "Sumatera Utara",
+        "kab": [
+            "Bupati Asahan 2024",
+            "Bupati Batu Bara 2024",
+            "Bupati Dairi 2024",
+            "Bupati Deli Serdang 2024",
+            "Bupati Humbang Hasundutan 2024",
+            "Bupati Karo 2024",
+            "Bupati Labuhanbatu 2024",
+            "Bupati Labuhanbatu Selatan 2024",
+            "Bupati Labuhanbatu Utara 2024",
+            "Bupati Langkat 2024",
+            "Bupati Mandailing Natal 2024",
+            "Bupati Nias 2024",
+            "Bupati Nias Barat 2024",
+            "Bupati Nias Selatan 2024",
+            "Bupati Nias Utara 2024",
+            "Bupati Padang Lawas 2024",
+            "Bupati Padang Lawas Utara 2024",
+            "Bupati Pakpak Bharat 2024",
+            "Bupati Samosir 2024",
+            "Bupati Serdang Bedagai 2024",
+            "Bupati Simalungun 2024",
+            "Bupati Tapanuli Selatan 2024",
+            "Bupati Tapanuli Tengah 2024",
+            "Bupati Tapanuli Utara 2024",
+            "Bupati Toba 2024",
+            "Wali Kota Binjai 2024",
+            "Wali Kota Gunungsitoli 2024",
+            "Wali Kota Medan 2024",
+            "Wali Kota Padang Sidempuan 2024",
+            "Wali Kota Pematangsiantar 2024",
+            "Wali Kota Sibolga 2024",
+            "Wali Kota Tangjungbalai 2024",
+            "Wali Kota Tebing Tinggi 2024"
+        ]
+    },
+    {
+        "prov": "Sumatera Barat",
+        "kab": [
+            "Bupati Agam 2024",
+            "Bupati Dharmasraya 2024",
+            "Bupati Kepulauan Mentawai 2024",
+            "Bupati Lima Puluh Kota 2024",
+            "Bupati Padang Pariaman 2024",
+            "Bupati Pasaman 2024",
+            "Bupati Pasaman Barat 2024",
+            "Bupati Pesisir Selatan 2024",
+            "Bupati Sijunjung 2024",
+            "Bupati Solok 2024",
+            "Bupati Solok Selatan 2024",
+            "Bupati Tanah Datar 2024",
+            "Wali Kota Bukittinggi 2024",
+            "Wali Kota Padang 2024",
+            "Wali Kota Padang Panjang 2024",
+            "Wali Kota Pariaman 2024",
+            "Wali Kota Payakumbuh 2024",
+            "Wali Kota Sawahlunto 2024",
+            "Wali Kota Solok 2024"
+        ]
+    },
+    {
+        "prov": "Riau",
+        "kab": [
+            "Bupati Bengkalis 2024",
+            "Bupati Indragiri Hilir 2024",
+            "Bupati Indragiri Hulu 2024",
+            "Bupati Kampar 2024",
+            "Bupati Kepulauan Meranti 2024",
+            "Bupati Kuantan Singingi 2024",
+            "Bupati Pelalawan 2024",
+            "Bupati Rokan Hilir 2024",
+            "Bupati Rokan Hulu 2024",
+            "Bupati Siak 2024",
+            "Wali Kota Dumai 2024",
+            "Wali Kota Pekanbaru 2024"
+        ]
+    },
+    {
+        "prov": "Kepulauan Riau",
+        "kab": [
+            "Bupati Bintan 2024",
+            "Bupati Karimun 2024",
+            "Bupati Kepulauan Anambas 2024",
+            "Bupati Lingga 2024",
+            "Bupati Natuna 2024",
+            "Wali Kota Batam 2024",
+            "Wali Kota Tanjungpinang 2024"
+        ]
+    },
+    {
+        "prov": "Jambi",
+        "kab": [
+            "Bupati Batanghari 2024",
+            "Bupati Bungo 2024",
+            "Bupati Kerinci 2024",
+            "Bupati Merangin 2024",
+            "Bupati Muaro Jambi 2024",
+            "Bupati Sarolangun 2024",
+            "Bupati Tanjung Jabung Barat 2024",
+            "Bupati Tanjung Jabung Timur 2024",
+            "Bupati Tebo 2024",
+            "Wali Kota Jambi 2024",
+            "Wali Kota Sungai Penuh 2024"
+        ]
+    },
+    {
+        "prov": "Bengkulu",
+        "kab": [
+            "Bupati Bengkulu Selatan 2024",
+            "Bupati Bengkulu Tengah 2024",
+            "Bupati Bengkulu Utara 2024",
+            "Bupati Kaur 2024",
+            "Bupati Kepahiang 2024",
+            "Bupati Lebong 2024",
+            "Bupati Mukomuko 2024",
+            "Bupati Rejang Lebong 2024",
+            "Bupati Seluma 2024",
+            "Wali Kota Bengkulu 2024"
+        ]
+    },
+    {
+        "prov": "Sumatera Selatan",
+        "kab": [
+            "Bupati Banyuasin 2024",
+            "Bupati Empat Lawang 2024",
+            "Bupati Lahat 2024",
+            "Bupati Muara Enim 2024",
+            "Bupati Musi Banyuasin 2024",
+            "Bupati Musi Rawas 2024",
+            "Bupati Musi Rawas Utara 2024",
+            "Bupati Ogan Ilir 2024",
+            "Bupati Ogan Komering Ilir 2024",
+            "Bupati Ogan Komering Ulu 2024",
+            "Bupati Ogan Komering Ulu Selatan 2024",
+            "Bupati Ogan Komering Ulu Timur 2024",
+            "Bupati Penukal Abab Lematang Ilir 2024",
+            "Wali Kota Lubuklinggau 2024",
+            "Wali Kota Pagar Alam 2024",
+            "Wali Kota Palembang 2024",
+            "Wali Kota Prabumulih 2024"
+        ]
+    },
+    {
+        "prov": "Kepulauan Bangka Belitung",
+        "kab": [
+            "Bupati Bangka 2024",
+            "Bupati Bangka Barat 2024",
+            "Bupati Bangka Selatan 2024",
+            "Bupati Bangka Tengah 2024",
+            "Bupati Belitung 2024",
+            "Bupati Belitung Timur 2024",
+            "Wali Kota Pangkal Pinang 2024"
+        ]
+    },
+    {
+        "prov": "Lampung",
+        "kab": [
+            "Bupati Lampung Barat 2024",
+            "Bupati Lampung Selatan 2024",
+            "Bupati Lampung Tengah 2024",
+            "Bupati Lampung Timur 2024",
+            "Bupati Lampung Utara 2024",
+            "Bupati Mesuji 2024",
+            "Bupati Pesawaran 2024",
+            "Bupati Pesisir Barat 2024",
+            "Bupati Pringsewu 2024",
+            "Bupati Tanggamus 2024",
+            "Bupati Tulang Bawang 2024",
+            "Bupati Tulang Bawang Barat 2024",
+            "Bupati Way Kanan 2024",
+            "Wali Kota Bandar Lampung 2024",
+            "Wali Kota Metro 2024"
+        ]
+    },
+    {
+        "prov": "Banten",
+        "kab": [
+            "Bupati Lebak 2024",
+            "Bupati Pandeglang 2024",
+            "Bupati Serang 2024",
+            "Bupati Tangerang 2024",
+            "Wali Kota Cilegon 2024",
+            "Wali Kota Serang 2024",
+            "Wali Kota Tangerang 2024",
+            "Wali Kota Tangerang Selatan 2024"
+        ]
+    },
+    {
+        "prov": "Jawa Barat",
+        "kab": [
+            "Bupati Bandung 2024",
+            "Bupati Bandung Barat 2024",
+            "Bupati Bekasi 2024",
+            "Bupati Bogor 2024",
+            "Bupati Ciamis 2024",
+            "Bupati Cianjur 2024",
+            "Bupati Cirebon 2024",
+            "Bupati Garut 2024",
+            "Bupati Indramayu 2024",
+            "Bupati Karawang 2024",
+            "Bupati Kuningan 2024",
+            "Bupati Majalengka 2024",
+            "Bupati Pangandaran 2024",
+            "Bupati Purwakarta 2024",
+            "Bupati Subang 2024",
+            "Bupati Sukabumi 2024",
+            "Bupati Sumedang 2024",
+            "Bupati Tasikmalaya 2024",
+            "Wali Kota Bandung 2024",
+            "Wali Kota Banjar 2024",
+            "Wali Kota Bekasi 2024",
+            "Wali Kota Bogor 2024",
+            "Wali Kota Cimahi 2024",
+            "Wali Kota Cirebon 2024",
+            "Wali Kota Depok 2024",
+            "Wali Kota Sukabumi 2024",
+            "Wali Kota Tasikmalaya 2024"
+        ]
+    },
+    {
+        "prov": "Jawa Tengah",
+        "kab": [
+            "Bupati Banjarnegara 2024",
+            "Bupati Banyumas 2024",
+            "Bupati Batang 2024",
+            "Bupati Blora 2024",
+            "Bupati Boyolali 2024",
+            "Bupati Brebes 2024",
+            "Bupati Cilacap 2024",
+            "Bupati Demak 2024",
+            "Bupati Grobogan 2024",
+            "Bupati Jepara 2024",
+            "Bupati Karanganyar 2024",
+            "Bupati Kebumen 2024",
+            "Bupati Kendal 2024",
+            "Bupati Klaten 2024",
+            "Bupati Kudus 2024",
+            "Bupati Magelang 2024",
+            "Bupati Pati 2024",
+            "Bupati Pekalongan 2024",
+            "Bupati Pemalang 2024",
+            "Bupati Purbalingga 2024",
+            "Bupati Purworejo 2024",
+            "Bupati Rembang 2024",
+            "Bupati Semarang 2024",
+            "Bupati Sragen 2024",
+            "Bupati Sukoharjo 2024",
+            "Bupati Tegal 2024",
+            "Bupati Temanggung 2024",
+            "Bupati Wonogiri 2024",
+            "Bupati Wonosobo 2024",
+            "Wali Kota Magelang 2024",
+            "Wali Kota Pekalongan 2024",
+            "Wali Kota Salatiga 2024",
+            "Wali Kota Semarang 2024",
+            "Wali Kota Surakarta 2024",
+            "Wali Kota Tegal 2024"
+        ]
+    },
+    {
+        "prov": "Daerah Istimewa Yogyakarta",
+        "kab": [
+            "Bupati Bantul 2024",
+            "Bupati Gunungkidul 2024",
+            "Bupati Kulon Progo 2024",
+            "Bupati Sleman 2024",
+            "Wali Kota Yogyakarta 2024"
+        ]
+    },
+    {
+        "prov": "Jawa Timur",
+        "kab": [
+            "Bupati Bangkalan 2024",
+            "Bupati Banyuwangi 2024",
+            "Bupati Blitar 2024",
+            "Bupati Bojonegoro 2024",
+            "Bupati Bondowoso 2024",
+            "Bupati Gresik 2024",
+            "Bupati Jember 2024",
+            "Bupati Jombang 2024",
+            "Bupati Kediri 2024",
+            "Bupati Lamongan 2024",
+            "Bupati Lumajang 2024",
+            "Bupati Madiun 2024",
+            "Bupati Magetan 2024",
+            "Bupati Malang 2024",
+            "Bupati Mojokerto 2024",
+            "Bupati Nganjuk 2024",
+            "Bupati Ngawi 2024",
+            "Bupati Pacitan 2024",
+            "Bupati Pamekasan 2024",
+            "Bupati Pasuruan 2024",
+            "Bupati Ponorogo 2024",
+            "Bupati Probolinggo 2024",
+            "Bupati Sampang 2024",
+            "Bupati Sidoarjo 2024",
+            "Bupati Situbondo 2024",
+            "Bupati Sumenep 2024",
+            "Bupati Trenggalek 2024",
+            "Bupati Tuban 2024",
+            "Bupati Tulungagung 2024",
+            "Wali Kota Batu 2024",
+            "Wali Kota Blitar 2024",
+            "Wali Kota Kediri 2024",
+            "Wali Kota Madiun 2024",
+            "Wali Kota Malang 2024",
+            "Wali Kota Mojokerto 2024",
+            "Wali Kota Pasuruan 2024",
+            "Wali Kota Probolinggo 2024",
+            "Wali Kota Surabaya 2024"
+        ]
+    },
+    {
+        "prov": "Bali",
+        "kab": [
+            "Bupati Badung 2024",
+            "Bupati Bangli 2024",
+            "Bupati Buleleng 2024",
+            "Bupati Gianyar 2024",
+            "Bupati Jembrana 2024",
+            "Bupati Karangasem 2024",
+            "Bupati Klungkung 2024",
+            "Bupati Tabanan 2024",
+            "Wali Kota Denpasar 2024"
+        ]
+    },
+    {
+        "prov": "Nusa Tenggara Barat",
+        "kab": [
+            "Bupati Bima 2024",
+            "Bupati Dompu 2024",
+            "Bupati Lombok Barat 2024",
+            "Bupati Lombok Tengah 2024",
+            "Bupati Lombok Timur 2024",
+            "Bupati Lombok Utara 2024",
+            "Bupati Sumbawa 2024",
+            "Bupati Sumbawa Barat 2024",
+            "Wali Kota Bima 2024",
+            "Wali Kota Mataram 2024"
+        ]
+    },
+    {
+        "prov": "Nusa Tenggara Timur",
+        "kab": [
+            "Bupati Alor 2024",
+            "Bupati Belu 2024",
+            "Bupati Ende 2024",
+            "Bupati Flores 2024",
+            "Bupati Flores Timur 2024",
+            "Bupati Kupang 2024",
+            "Bupati Lembata 2024",
+            "Bupati Malaka 2024",
+            "Bupati Manggarai 2024",
+            "Bupati Manggarai Barat 2024",
+            "Bupati Manggarai Timur 2024",
+            "Bupati Nagekeo 2024",
+            "Bupati Ngada 2024",
+            "Bupati Rote Ndao 2024",
+            "Bupati Sabu Raijua 2024",
+            "Bupati Sikka 2024",
+            "Bupati Sumba Barat 2024",
+            "Bupati Sumba Barat Daya 2024",
+            "Bupati Sumba Tengah 2024",
+            "Bupati Sumba Timur 2024",
+            "Bupati Timor Tengah Selatan 2024",
+            "Bupati Timor Tengah Utara 2024",
+            "Wali Kota Kupang 2024"
+        ]
+    },
+    {
+        "prov": "Kalimantan Barat",
+        "kab": [
+            "Bupati Bengkayang 2024",
+            "Bupati Kapuas Hulu 2024",
+            "Bupati Kayong Utara 2024",
+            "Bupati Ketapang 2024",
+            "Bupati Kubu Raya 2024",
+            "Bupati Landak 2024",
+            "Bupati Melawi 2024",
+            "Bupati Mempawah 2024",
+            "Bupati Sambas 2024",
+            "Bupati Sanggau 2024",
+            "Bupati Sekadau 2024",
+            "Bupati Sintang 2024",
+            "Wali Kota Pontianak 2024",
+            "Wali Kota Singkawang 2024"
+        ]
+    },
+    {
+        "prov": "Kalimantan Tengah",
+        "kab": [
+            "Bupati Barito Selatan 2024",
+            "Bupati Barito Timur 2024",
+            "Bupati Barito Utara 2024",
+            "Bupati Gunung Mas 2024",
+            "Bupati Kapuas 2024",
+            "Bupati Katingan 2024",
+            "Bupati Kotawaringin Barat 2024",
+            "Bupati Kotawaringin Timur 2024",
+            "Bupati Lamandau 2024",
+            "Bupati Murung Raya 2024",
+            "Bupati Pulang Pisau 2024",
+            "Bupati Sukamara 2024",
+            "Bupati Seruyan 2024",
+            "Wali Kota Palangka Raya 2024"
+        ]
+    },
+    {
+        "prov": "Kalimantan Selatan",
+        "kab": [
+            "Bupati Balangan 2024",
+            "Bupati Banjar 2024",
+            "Bupati Barito Kuala 2024",
+            "Bupati Hulu Sungai Selatan 2024",
+            "Bupati Hulu Sungai Tengah 2024",
+            "Bupati Hulu Sungai Utara 2024",
+            "Bupati Kotabaru 2024",
+            "Bupati Tabalong 2024",
+            "Bupati Tanah Bumbu 2024",
+            "Bupati Tanah Laut 2024",
+            "Bupati Tapin 2024",
+            "Wali Kota Banjarbaru 2024",
+            "Wali Kota Banjarmasin 2024"
+        ]
+    },
+    {
+        "prov": "Kalimantan Timur",
+        "kab": [
+            "Bupati Berau 2024",
+            "Bupati Kutai Barat 2024",
+            "Bupati Kutai Kartanegara 2024",
+            "Bupati Kutai Timur 2024",
+            "Bupati Mahakam Ulu 2024",
+            "Bupati Paser 2024",
+            "Bupati Penajam Paser Utara 2024",
+            "Wali Kota Balikpapan 2024",
+            "Wali Kota Bontang 2024",
+            "Wali Kota Samarinda 2024"
+        ]
+    },
+    {
+        "prov": "Kalimantan Utara",
+        "kab": [
+            "Bupati Bulungan 2024",
+            "Bupati Malinau 2024",
+            "Bupati Nunukan 2024",
+            "Bupati Tana Tidung 2024",
+            "Wali Kota Tarakan 2024"
+        ]
+    },
+    {
+        "prov": "Sulawesi Utara",
+        "kab": [
+            "Bupati Bolaang Mongondow 2024",
+            "Bupati Bolaang Mongondow Selatan 2024",
+            "Bupati Bolaang Mongondow Timur 2024",
+            "Bupati Bolaang Mongondow Utara 2024",
+            "Bupati Kepulauan Sangihe 2024",
+            "Bupati Kepulauan Siau Tagulandang Biaro 2024",
+            "Bupati Kepulauan Talaud 2024",
+            "Bupati Minahasa 2024",
+            "Bupati Minahasa Selatan 2024",
+            "Bupati Minahasa Tenggara 2024",
+            "Bupati Minahasa Utara 2024",
+            "Wali Kota Bitung 2024",
+            "Wali Kota Kotamobagu 2024",
+            "Wali Kota Manado 2024",
+            "Wali Kota Tomohon 2024"
+        ]
+    },
+    {
+        "prov": "Gorontalo",
+        "kab": [
+            "Bupati Boalemo 2024",
+            "Bupati Bone Bolango 2024",
+            "Bupati Gorontalo 2024",
+            "Bupati Gorontalo Utara 2024",
+            "Bupati Pohuwato 2024",
+            "Wali Kota Gorontalo 2024"
+        ]
+    },
+    {
+        "prov": "Sulawesi Tengah",
+        "kab": [
+            "Bupati Banggai 2024",
+            "Bupati Banggai Kepulauan 2024",
+            "Bupati Banggai Laut 2024",
+            "Bupati Buol 2024",
+            "Bupati Donggala 2024",
+            "Bupati Morowali 2024",
+            "Bupati Morowali Utara 2024",
+            "Bupati Parigi Moutong 2024",
+            "Bupati Poso 2024",
+            "Bupati Sigi 2024",
+            "Bupati Tojo Una-Una 2024",
+            "Bupati Tolitoli 2024",
+            "Wali Kota Palu 2024"
+        ]
+    },
+    {
+        "prov": "Sulawesi Barat",
+        "kab": [
+            "Bupati Majene 2024",
+            "Bupati Mamasa 2024",
+            "Bupati Mamuju 2024",
+            "Bupati Mamuju Tengah 2024",
+            "Bupati Pasangkayu 2024",
+            "Bupati Polewali Mandar 2024"
+        ]
+    },
+    {
+        "prov": "Sulawesi Selatan",
+        "kab": [
+            "Bupati Bantaeng 2024",
+            "Bupati Barru 2024",
+            "Bupati Bone 2024",
+            "Bupati Bulukumba 2024",
+            "Bupati Enrekang 2024",
+            "Bupati Gowa 2024",
+            "Bupati Jeneponto 2024",
+            "Bupati Kepulauan Selayar 2024",
+            "Bupati Luwu 2024",
+            "Bupati Luwu Timur 2024",
+            "Bupati Luwu Utara 2024",
+            "Bupati Maros 2024",
+            "Bupati Pangkajene dan Kepulauan 2024",
+            "Bupati Pinrang 2024",
+            "Bupati Sidenreng Rappang 2024",
+            "Bupati Sinjai 2024",
+            "Bupati Soppeng 2024",
+            "Bupati Takalar 2024",
+            "Bupati Tana Toraja 2024",
+            "Bupati Toraja Utara 2024",
+            "Bupati Wajo 2024",
+            "Wali Kota Makassar 2024",
+            "Wali Kota Palopo 2024",
+            "Wali Kota Parepare 2024"
+        ]
+    },
+    {
+        "prov": "Sulawesi Tenggara",
+        "kab": [
+            "Bupati Bombana 2024",
+            "Bupati Buton 2024",
+            "Bupati Buton Selatan 2024",
+            "Bupati Buton Tengah 2024",
+            "Bupati Buton Utara 2024",
+            "Bupati Kolaka 2024",
+            "Bupati Kolaka Timur 2024",
+            "Bupati Kolaka Utara 2024",
+            "Bupati Konawe 2024",
+            "Bupati Konawe Kepulauan 2024",
+            "Bupati Konawe Selatan 2024",
+            "Bupati Konawe Utara 2024",
+            "Bupati Muna 2024",
+            "Bupati Muna Barat 2024",
+            "Bupati Wakatobi 2024",
+            "Wali Kota Baubau 2024",
+            "Wali Kota Kendari 2024"
+        ]
+    },
+    {
+        "prov": "Maluku",
+        "kab": [
+            "Bupati Buru 2024",
+            "Bupati Buru Selatan 2024",
+            "Bupati Kepulauan Aru 2024",
+            "Bupati Kepulauan Tanimbar 2024",
+            "Bupati Maluku Barat Daya 2024",
+            "Bupati Maluku Tengah 2024",
+            "Bupati Maluku Tenggara 2024",
+            "Bupati Seram Bagian Barat 2024",
+            "Bupati Seram Bagian Timur 2024",
+            "Wali Kota Ambon 2024",
+            "Wali Kota Tual 2024"
+        ]
+    },
+    {
+        "prov": "Maluku Utara",
+        "kab": [
+            "Bupati Halmahera Barat 2024",
+            "Bupati Halmahera Tengah 2024",
+            "Bupati Halmahera Timur 2024",
+            "Bupati Halmahera Selatan 2024",
+            "Bupati Halmahera Utara 2024",
+            "Bupati Kepulauan Sula 2024",
+            "Bupati Pulau Morotai 2024",
+            "Bupati Pulau Taliabu 2024",
+            "Wali Kota Ternate 2024",
+            "Wali Kota Tidore Kepulauan 2024"
+        ]
+    },
+    {
+        "prov": "Papua",
+        "kab": [
+            "Bupati Biak Numfor 2024",
+            "Bupati Jayapura 2024",
+            "Bupati Keerom 2024",
+            "Bupati Kepulauan Yapen 2024",
+            "Bupati Mamberamo Raya 2024",
+            "Bupati Sarmi 2024",
+            "Bupati Supiori 2024",
+            "Bupati Waropen 2024",
+            "Wali Kota Jayapura 2024"
+        ]
+    },
+    {
+        "prov": "Papua Barat",
+        "kab": [
+            "Bupati Fakfak 2024",
+            "Bupati Kaimana 2024",
+            "Bupati Manokwari 2024",
+            "Bupati Manokwari Selatan 2024",
+            "Bupati Pegunungan Arfak 2024",
+            "Bupati Teluk Bintuni 2024",
+            "Bupati Teluk Wondama 2024"
+        ]
+    },
+    {
+        "prov": "Papua Barat Daya",
+        "kab": [
+            "Bupati Maybrat 2024",
+            "Bupati Raja Ampat 2024",
+            "Bupati Sorong 2024",
+            "Bupati Sorong Selatan 2024",
+            "Bupati Tambrauw 2024",
+            "Wali Kota Sorong 2024"
+        ]
+    },
+    {
+        "prov": "Papua Pegunungan",
+        "kab": [
+            "Bupati Jayawijaya 2024",
+            "Bupati Lanny Jaya 2024",
+            "Bupati Mamberamo Tengah 2024",
+            "Bupati Nduga 2024",
+            "Bupati Pegunungan Bintang 2024",
+            "Bupati Tolikara 2024",
+            "Bupati Yalimo 2024",
+            "Bupati Yahukimo 2024"
+        ]
+    },
+    {
+        "prov": "Papua Selatan",
+        "kab": [
+            "Bupati Asmat 2024",
+            "Bupati Boven Digoel 2024",
+            "Bupati Mappi 2024",
+            "Bupati Merauke 2024"
+        ]
+    },
+    {
+        "prov": "Papua Tengah",
+        "kab": [
+            "Bupati Deiyai 2024",
+            "Bupati Dogiyai 2024",
+            "Bupati Intan Jaya 2024",
+            "Bupati Mimika 2024",
+            "Bupati Nabire 2024",
+            "Bupati Paniai 2024",
+            "Bupati Puncak 2024",
+            "Bupati Puncak Jaya 2024"
+        ]
+    }
+]

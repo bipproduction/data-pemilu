@@ -6,6 +6,7 @@
   "dependencies": {
     "@paralleldrive/cuid2": "^2.2.2",
     "@prisma/client": "^5.4.1",
+    "cheerio": "^1.0.0-rc.12",
     "colors": "^1.4.0",
     "cross-fetch": "^4.0.0",
     "html-table-to-json": "^1.0.0",
